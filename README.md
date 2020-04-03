@@ -1,7 +1,8 @@
 # leetcode-java
 
-> 个人在**leetcode**上的解答笔记，基于 Java 语言。
+> 个人在**Leetcode**上的解答笔记，基于 Java 语言。
 
 ## easy - 简单题
 
-- [204. 计数质数 - CountPrimes](src/easy/CountPrimes.java)
+- [解答](src/easy/CountPrimes.java) | [204. 计数质数 - CountPrimes](https://leetcode-cn.com/problems/count-primes/) 
+- [解答](src/easy/SmallerNumbersThanCurrent.java) | [1365. 有多少小于当前数字的数字 - SmallerNumbersThanCurrent](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
